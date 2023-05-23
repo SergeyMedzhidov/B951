@@ -1,0 +1,19 @@
+{
+  "name": "array_of_functions",
+  "version": "1.0.0",
+  "description": "description text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyMedzhidov/B951.git"
+  },
+  "author": "Sergey Medzhidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyMedzhidov/B951/issues"
+  },
+  "homepage": "https://github.com/SergeyMedzhidov/B951#readme"
+}
